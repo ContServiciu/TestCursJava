@@ -7,6 +7,6 @@ public class Challenges {
 
   // To successfully complete these challenges, the folders/files may be changed/updated
   public static void main(String[] args) {
-        
+        int a = 15;
     }
 }
